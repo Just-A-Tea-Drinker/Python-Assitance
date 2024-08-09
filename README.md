@@ -31,6 +31,8 @@ main_shell.py
 ## Possible upgrades
 - google tts is slow but accurate, some kind of audio stream processing would be better
 - Adding more advanced LLM features like ChatGPT for more of a flexible use, for example searching for information. the weather etc.
+- Adding further gui for the addition of contacts for example
+- perhaps opening other apps such as word or notepad
 
 # Command list:
 Note: all commands must be activated by saying computer
@@ -68,8 +70,12 @@ Note: this is simply the youtube shortcuts, they are very useful so if you know 
 | stop  | When the assistant is reading titles this will stop this process |
 | click/select  | This is used to select or click on a video or reel of your choosing by saying its title |
 
-
-
+## Current configuration requirements
+To utilise the email feature currently you must traverse into Assistant/complementary and add a contact like:
+```
+exmaple_email@example.com example_name
+```
+With the email first then a name with a space inbetween
 
 # known bugs/Inconviences
 - Launching the youtube feature uses a thread to activate, despite it being a thread this process seems to freeze the main program unitill the "computer close youtube" is said
