@@ -1,0 +1,35 @@
+hello i am your personal assistant. i can perform many actions such as opening apps and browsing the internet
+How would you like me to call you?
+So you want me to call you
+I shall remember that
+If you need anything just say computer, and give me a command
+Welcome back
+I'm sorry, i didn't quite catch that
+remember. to call me just say computer, and give me a command
+I'm sorry, i didn't hear any key words
+
+How can i be of assistance?
+How can i be of service?
+what can i do for you?
+what can i help with?
+How can I help you?
+How may I assist you?
+How can I serve you?
+Do you need any help?
+What assistance do you need?
+How can I aid you?
+
+Absolutely
+of course, No problems
+Not an issue
+No worries
+No trouble at all
+All right
+Sure, no problms
+Yes, i can
+Absolutely
+Certainly
+
+What would you like the subject to be?
+What would you like the main body to be?
+Your email has been sent!

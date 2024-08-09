@@ -1,0 +1,9 @@
+send_email
+open
+close
+maximise
+minimise
+switch_monitor
+swap_monitor
+switch_to
+swap_to
