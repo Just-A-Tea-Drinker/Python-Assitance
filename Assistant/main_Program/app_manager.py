@@ -3,12 +3,7 @@ import os
 import win32com.client
 import webbrowser
 import psutil
-import time
-from pywinauto import application
 import pygetwindow as gw
-import win32gui
-import win32con
-import re
 from screeninfo import get_monitors
 import auto_yt as yt
 import common_funcs as cf

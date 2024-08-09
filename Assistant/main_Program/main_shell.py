@@ -1,9 +1,7 @@
 #email function based on: https://www.makeuseof.com/send-outlook-emails-using-python/
 #os and scheduling
 import time
-import subprocess as sp
 import os
-import multiprocessing as mp
 import threading as th
 
 #custom imports
